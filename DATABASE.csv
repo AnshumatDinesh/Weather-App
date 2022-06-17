@@ -1,0 +1,12 @@
+timestamp,Location,Temperature,AQI,Pressure,Humidity,High/Low,Sunset,Sunrise,Precipitation,UV index,Condition
+,"Delhi,Delhi",29.47,121,1010,11,35.25/21.36,06:41 PM,06:09 AM,0,0,haze
+,"Delhi,Delhi",29.46,121,1010,11,35.25/21.36,06:41 PM,06:09 AM,0,0,haze
+,"Delhi,Delhi",29.46,121,1010,11,35.25/21.36,06:41 PM,06:09 AM,0,0,haze
+,"Delhi,Delhi",29.46,132,1010,11,35.25/21.36,06:41 PM,06:09 AM,0,0,haze
+2022-05-02T13:00:00.000Z,"Mumbai,Maharashtra",30.01,94,1005,79,31.5/28.11,07:01 PM,06:10 AM,0,0,haze
+2022-05-02T13:00:00.000Z,"Mumbai,Maharashtra",30.01,94,1005,79,31.5/28.11,07:01 PM,06:10 AM,0,0,haze
+2022-05-02T13:00:00.000Z,"Mumbai,Maharashtra",30.01,94,1005,79,31.5/28.11,07:01 PM,06:10 AM,0,0,haze
+2022-05-02T13:00:00.000Z,"Mumbai,Maharashtra",30.01,94,1005,79,31.5/28.11,07:01 PM,06:10 AM,0,0,haze
+2022-05-02T15:00:00.000Z,"Mumbai,Maharashtra",30.01,107,1006,79,31.3/28.11,07:01 PM,06:10 AM,0,0,haze
+2022-05-06T17:00:00.000Z,"Mumbai,Maharashtra",30.01,154,1007,79,32.15/28.08,07:03 PM,06:08 AM,0,0,haze
+2022-05-07T18:00:00.000Z,"Mumbai,Maharashtra",30.01,167,1006,79,31.79/28.27,07:03 PM,06:07 AM,0,0,haze
