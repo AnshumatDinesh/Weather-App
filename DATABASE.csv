@@ -10,3 +10,9 @@ timestamp,Location,Temperature,AQI,Pressure,Humidity,High/Low,Sunset,Sunrise,Pre
 2022-05-02T15:00:00.000Z,"Mumbai,Maharashtra",30.01,107,1006,79,31.3/28.11,07:01 PM,06:10 AM,0,0,haze
 2022-05-06T17:00:00.000Z,"Mumbai,Maharashtra",30.01,154,1007,79,32.15/28.08,07:03 PM,06:08 AM,0,0,haze
 2022-05-07T18:00:00.000Z,"Mumbai,Maharashtra",30.01,167,1006,79,31.79/28.27,07:03 PM,06:07 AM,0,0,haze
+2022-09-27T18:00:00.000Z,"Nagpur,Maharashtra",22.98,151,1009,94,30.88/22.92,06:05 PM,06:04 AM,0.81,0,overcast clouds
+2022-09-27T18:00:00.000Z,"Nagpur,Maharashtra",22.98,151,1009,94,30.88/22.92,06:05 PM,06:04 AM,0.81,0,overcast clouds
+2022-09-27T20:00:00.000Z,"Pune,Maharashtra",21.18,67,1009,91,28.63/21.17,06:26 PM,06:24 AM,0.86,0,overcast clouds
+2022-09-27T20:00:00.000Z,"Pune,Maharashtra",21.18,67,1009,91,28.63/21.17,06:26 PM,06:24 AM,0.86,0,overcast clouds
+2022-09-27T20:00:00.000Z,"Pune,Maharashtra",21.18,67,1009,91,28.63/21.17,06:26 PM,06:24 AM,0.86,0,overcast clouds
+2022-09-27T20:00:00.000Z,"Pune,Maharashtra",21.18,67,1009,91,28.63/21.17,06:26 PM,06:24 AM,0.86,0,overcast clouds
